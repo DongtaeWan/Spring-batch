@@ -1,3 +1,10 @@
 # Spring-batch
-# Spring-batch
-# Spring-batch
+
+dependencies
+```aidl
+- Spring JPA
+- Lombok
+- Spring Batch
+- Spring DevTool
+- Mysql Driver
+```
